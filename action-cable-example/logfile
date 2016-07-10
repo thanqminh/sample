@@ -1,0 +1,8 @@
+LOG:  database system was shut down at 2016-07-10 13:07:12 ICT
+LOG:  MultiXact member wraparound protections are now enabled
+LOG:  database system is ready to accept connections
+LOG:  autovacuum launcher started
+FATAL:  database "action-cable-example_development" does not exist
+FATAL:  database "action-cable-example_development" does not exist
+FATAL:  role "action-cable-example" does not exist
+FATAL:  database "action-cable-example_production" does not exist
