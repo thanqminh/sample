@@ -7,7 +7,7 @@ config/database.yml
 !/log/.keep
 /tmp
 
-
+/action-cable-example/logfile
 *.rbc
 capybara-*.html
 .rspec
